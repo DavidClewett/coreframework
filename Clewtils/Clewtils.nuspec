@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Clewtils</id>
+    <version>1.0</version>
+    <title>Clewtils</title>
+    <authors>David Clewett</authors>
+    <owners>David Clewett</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Utilities and Helper for David Clewett</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Clewett Utilities Clewtils</tags>
+  </metadata>
+</package>
