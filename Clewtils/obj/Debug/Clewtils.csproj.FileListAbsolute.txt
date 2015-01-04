@@ -1,5 +1,4 @@
 C:\Webs\Clewtils\Clewtils\bin\Debug\Clewtils.dll
 C:\Webs\Clewtils\Clewtils\bin\Debug\Clewtils.pdb
-C:\Webs\Clewtils\Clewtils\obj\Debug\Clewtils.csprojResolveAssemblyReference.cache
 C:\Webs\Clewtils\Clewtils\obj\Debug\Clewtils.dll
 C:\Webs\Clewtils\Clewtils\obj\Debug\Clewtils.pdb
